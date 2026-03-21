@@ -18,7 +18,7 @@ Feature scaling (StandardScaler)
 Feature selection
 Model saved using Joblib
 
-🛠️ Tech Stack
+🛠️ Tech Stack: 
 Python
 Streamlit
 NumPy
